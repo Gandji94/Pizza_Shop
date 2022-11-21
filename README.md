@@ -1,6 +1,6 @@
 # Pizza_Store
 
-In the following project, a pizza store’s (with made up data) performance was analyzed. I have uploaded the data of the store in a data base, in this data base I have used SQL code to manipulate the data.
+A pizza store’s (with made-up data) performance was analyzed in the following project. I have uploaded the store's data to a database. In this database, I have used SQL code to manipulate the data.
 Manipulation methods:
 - Aggregation functions(sum(), count() etc.)
 - Window function (lag() and row_number())
@@ -8,7 +8,7 @@ Manipulation methods:
 - Instr() to separate string values
 - CTE
 - Temporary tables
-The output of the data manipulation is displayed in the attached link to the tableau report. The link will bring you to the main report from where you can go deeper in the different sections of the report.
+The output of the data manipulation is displayed in the attached link to the tableau report. The link will bring you to the main report, where you can go deeper into the different sections.
 The report will display:
 ## Pizza Store Report
   ### Order breakdown of the Pizza Store
