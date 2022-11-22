@@ -22,3 +22,6 @@ The report will display:
       - Most popular Pizza by Month
       - Revenue over the Quarters
       - Selection of Toppings by Month
+## Origins of the Data
+The data was downloaded from the website https://www.mavenanalytics.io/data-playground
+The data set was updated the last time on the 20th of september 2022.
