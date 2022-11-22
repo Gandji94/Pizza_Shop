@@ -1,0 +1,385 @@
+pizza,month,how_many_times_ordered,prev_month
+The Barbecue Chicken Pizza,1,206,
+The Barbecue Chicken Pizza,2,187,206
+The Barbecue Chicken Pizza,3,229,187
+The Barbecue Chicken Pizza,4,208,229
+The Barbecue Chicken Pizza,5,220,208
+The Barbecue Chicken Pizza,6,188,220
+The Barbecue Chicken Pizza,7,217,188
+The Barbecue Chicken Pizza,8,183,217
+The Barbecue Chicken Pizza,9,189,183
+The Barbecue Chicken Pizza,10,161,189
+The Barbecue Chicken Pizza,11,211,161
+The Barbecue Chicken Pizza,12,173,211
+The Big Meat Pizza,1,146,
+The Big Meat Pizza,2,144,146
+The Big Meat Pizza,3,166,144
+The Big Meat Pizza,4,137,166
+The Big Meat Pizza,5,176,137
+The Big Meat Pizza,6,133,176
+The Big Meat Pizza,7,173,133
+The Big Meat Pizza,8,149,173
+The Big Meat Pizza,9,136,149
+The Big Meat Pizza,10,142,136
+The Big Meat Pizza,11,164,142
+The Big Meat Pizza,12,145,164
+The Brie Carre Pizza,1,34,
+The Brie Carre Pizza,2,44,34
+The Brie Carre Pizza,3,45,44
+The Brie Carre Pizza,4,31,45
+The Brie Carre Pizza,5,44,31
+The Brie Carre Pizza,6,40,44
+The Brie Carre Pizza,7,42,40
+The Brie Carre Pizza,8,43,42
+The Brie Carre Pizza,9,48,43
+The Brie Carre Pizza,10,33,48
+The Brie Carre Pizza,11,42,33
+The Brie Carre Pizza,12,34,42
+The Calabrese Pizza,1,66,
+The Calabrese Pizza,2,85,66
+The Calabrese Pizza,3,63,85
+The Calabrese Pizza,4,83,63
+The Calabrese Pizza,5,84,83
+The Calabrese Pizza,6,89,84
+The Calabrese Pizza,7,82,89
+The Calabrese Pizza,8,71,82
+The Calabrese Pizza,9,66,71
+The Calabrese Pizza,10,81,66
+The Calabrese Pizza,11,93,81
+The Calabrese Pizza,12,64,93
+The California Chicken Pizza,1,197,
+The California Chicken Pizza,2,200,197
+The California Chicken Pizza,3,186,200
+The California Chicken Pizza,4,170,186
+The California Chicken Pizza,5,195,170
+The California Chicken Pizza,6,216,195
+The California Chicken Pizza,7,183,216
+The California Chicken Pizza,8,225,183
+The California Chicken Pizza,9,170,225
+The California Chicken Pizza,10,157,170
+The California Chicken Pizza,11,202,157
+The California Chicken Pizza,12,201,202
+The Chicken Alfredo Pizza,1,83,
+The Chicken Alfredo Pizza,2,74,83
+The Chicken Alfredo Pizza,3,100,74
+The Chicken Alfredo Pizza,4,74,100
+The Chicken Alfredo Pizza,5,85,74
+The Chicken Alfredo Pizza,6,83,85
+The Chicken Alfredo Pizza,7,73,83
+The Chicken Alfredo Pizza,8,83,73
+The Chicken Alfredo Pizza,9,79,83
+The Chicken Alfredo Pizza,10,78,79
+The Chicken Alfredo Pizza,11,93,78
+The Chicken Alfredo Pizza,12,75,93
+The Chicken Pesto Pizza,1,76,
+The Chicken Pesto Pizza,2,81,76
+The Chicken Pesto Pizza,3,81,81
+The Chicken Pesto Pizza,4,88,81
+The Chicken Pesto Pizza,5,77,88
+The Chicken Pesto Pizza,6,76,77
+The Chicken Pesto Pizza,7,85,76
+The Chicken Pesto Pizza,8,80,85
+The Chicken Pesto Pizza,9,83,80
+The Chicken Pesto Pizza,10,70,83
+The Chicken Pesto Pizza,11,82,70
+The Chicken Pesto Pizza,12,82,82
+The Classic Deluxe Pizza,1,189,
+The Classic Deluxe Pizza,2,173,189
+The Classic Deluxe Pizza,3,200,173
+The Classic Deluxe Pizza,4,214,200
+The Classic Deluxe Pizza,5,215,214
+The Classic Deluxe Pizza,6,193,215
+The Classic Deluxe Pizza,7,222,193
+The Classic Deluxe Pizza,8,205,222
+The Classic Deluxe Pizza,9,201,205
+The Classic Deluxe Pizza,10,193,201
+The Classic Deluxe Pizza,11,217,193
+The Classic Deluxe Pizza,12,194,217
+The Five Cheese Pizza,1,134,
+The Five Cheese Pizza,2,112,134
+The Five Cheese Pizza,3,121,112
+The Five Cheese Pizza,4,104,121
+The Five Cheese Pizza,5,118,104
+The Five Cheese Pizza,6,117,118
+The Five Cheese Pizza,7,134,117
+The Five Cheese Pizza,8,112,134
+The Five Cheese Pizza,9,111,112
+The Five Cheese Pizza,10,106,111
+The Five Cheese Pizza,11,101,106
+The Five Cheese Pizza,12,89,101
+The Four Cheese Pizza,1,153,
+The Four Cheese Pizza,2,153,153
+The Four Cheese Pizza,3,164,153
+The Four Cheese Pizza,4,156,164
+The Four Cheese Pizza,5,178,156
+The Four Cheese Pizza,6,146,178
+The Four Cheese Pizza,7,157,146
+The Four Cheese Pizza,8,137,157
+The Four Cheese Pizza,9,145,137
+The Four Cheese Pizza,10,161,145
+The Four Cheese Pizza,11,146,161
+The Four Cheese Pizza,12,154,146
+The Greek Pizza,1,128,
+The Greek Pizza,2,104,128
+The Greek Pizza,3,110,104
+The Greek Pizza,4,147,110
+The Greek Pizza,5,123,147
+The Greek Pizza,6,113,123
+The Greek Pizza,7,120,113
+The Greek Pizza,8,111,120
+The Greek Pizza,9,106,111
+The Greek Pizza,10,104,106
+The Greek Pizza,11,133,104
+The Greek Pizza,12,107,133
+The Green Garden Pizza,1,74,
+The Green Garden Pizza,2,88,74
+The Green Garden Pizza,3,87,88
+The Green Garden Pizza,4,82,87
+The Green Garden Pizza,5,90,82
+The Green Garden Pizza,6,86,90
+The Green Garden Pizza,7,98,86
+The Green Garden Pizza,8,80,98
+The Green Garden Pizza,9,90,80
+The Green Garden Pizza,10,85,90
+The Green Garden Pizza,11,63,85
+The Green Garden Pizza,12,64,63
+The Hawaiian Pizza,1,182,
+The Hawaiian Pizza,2,194,182
+The Hawaiian Pizza,3,212,194
+The Hawaiian Pizza,4,213,212
+The Hawaiian Pizza,5,193,213
+The Hawaiian Pizza,6,186,193
+The Hawaiian Pizza,7,190,186
+The Hawaiian Pizza,8,197,190
+The Hawaiian Pizza,9,195,197
+The Hawaiian Pizza,10,183,195
+The Hawaiian Pizza,11,219,183
+The Hawaiian Pizza,12,206,219
+The Italian Capocollo Pizza,1,122,
+The Italian Capocollo Pizza,2,121,122
+The Italian Capocollo Pizza,3,117,121
+The Italian Capocollo Pizza,4,125,117
+The Italian Capocollo Pizza,5,115,125
+The Italian Capocollo Pizza,6,126,115
+The Italian Capocollo Pizza,7,132,126
+The Italian Capocollo Pizza,8,116,132
+The Italian Capocollo Pizza,9,107,116
+The Italian Capocollo Pizza,10,105,107
+The Italian Capocollo Pizza,11,110,105
+The Italian Capocollo Pizza,12,118,110
+The Italian Supreme Pizza,1,166,
+The Italian Supreme Pizza,2,141,166
+The Italian Supreme Pizza,3,148,141
+The Italian Supreme Pizza,4,167,148
+The Italian Supreme Pizza,5,170,167
+The Italian Supreme Pizza,6,169,170
+The Italian Supreme Pizza,7,144,169
+The Italian Supreme Pizza,8,162,144
+The Italian Supreme Pizza,9,135,162
+The Italian Supreme Pizza,10,138,135
+The Italian Supreme Pizza,11,169,138
+The Italian Supreme Pizza,12,140,169
+The Italian Vegetables Pizza,1,100,
+The Italian Vegetables Pizza,2,87,100
+The Italian Vegetables Pizza,3,86,87
+The Italian Vegetables Pizza,4,85,86
+The Italian Vegetables Pizza,5,87,85
+The Italian Vegetables Pizza,6,72,87
+The Italian Vegetables Pizza,7,71,72
+The Italian Vegetables Pizza,8,78,71
+The Italian Vegetables Pizza,9,70,78
+The Italian Vegetables Pizza,10,82,70
+The Italian Vegetables Pizza,11,72,82
+The Italian Vegetables Pizza,12,85,72
+The Mediterranean Pizza,1,66,
+The Mediterranean Pizza,2,64,66
+The Mediterranean Pizza,3,77,64
+The Mediterranean Pizza,4,78,77
+The Mediterranean Pizza,5,91,78
+The Mediterranean Pizza,6,75,91
+The Mediterranean Pizza,7,87,75
+The Mediterranean Pizza,8,75,87
+The Mediterranean Pizza,9,75,75
+The Mediterranean Pizza,10,65,75
+The Mediterranean Pizza,11,85,65
+The Mediterranean Pizza,12,85,85
+The Mexicana Pizza,1,129,
+The Mexicana Pizza,2,104,129
+The Mexicana Pizza,3,126,104
+The Mexicana Pizza,4,128,126
+The Mexicana Pizza,5,103,128
+The Mexicana Pizza,6,119,103
+The Mexicana Pizza,7,145,119
+The Mexicana Pizza,8,122,145
+The Mexicana Pizza,9,102,122
+The Mexicana Pizza,10,110,102
+The Mexicana Pizza,11,156,110
+The Mexicana Pizza,12,112,156
+The Napolitana Pizza,1,135,
+The Napolitana Pizza,2,113,135
+The Napolitana Pizza,3,107,113
+The Napolitana Pizza,4,118,107
+The Napolitana Pizza,5,115,118
+The Napolitana Pizza,6,140,115
+The Napolitana Pizza,7,123,140
+The Napolitana Pizza,8,138,123
+The Napolitana Pizza,9,118,138
+The Napolitana Pizza,10,130,118
+The Napolitana Pizza,11,113,130
+The Napolitana Pizza,12,101,113
+The Pepper Salami Pizza,1,128,
+The Pepper Salami Pizza,2,107,128
+The Pepper Salami Pizza,3,119,107
+The Pepper Salami Pizza,4,127,119
+The Pepper Salami Pizza,5,114,127
+The Pepper Salami Pizza,6,124,114
+The Pepper Salami Pizza,7,122,124
+The Pepper Salami Pizza,8,107,122
+The Pepper Salami Pizza,9,101,107
+The Pepper Salami Pizza,10,125,101
+The Pepper Salami Pizza,11,127,125
+The Pepper Salami Pizza,12,121,127
+The Pepperoni Pizza,1,235,
+The Pepperoni Pizza,2,201,235
+The Pepperoni Pizza,3,184,201
+The Pepperoni Pizza,4,166,184
+The Pepperoni Pizza,5,238,166
+The Pepperoni Pizza,6,160,238
+The Pepperoni Pizza,7,223,160
+The Pepperoni Pizza,8,209,223
+The Pepperoni Pizza,9,193,209
+The Pepperoni Pizza,10,191,193
+The Pepperoni Pizza,11,193,191
+The Pepperoni Pizza,12,176,193
+"The Pepperoni, Mushroom, and Peppers Pizza",1,101,
+"The Pepperoni, Mushroom, and Peppers Pizza",2,108,101
+"The Pepperoni, Mushroom, and Peppers Pizza",3,115,108
+"The Pepperoni, Mushroom, and Peppers Pizza",4,110,115
+"The Pepperoni, Mushroom, and Peppers Pizza",5,118,110
+"The Pepperoni, Mushroom, and Peppers Pizza",6,126,118
+"The Pepperoni, Mushroom, and Peppers Pizza",7,122,126
+"The Pepperoni, Mushroom, and Peppers Pizza",8,131,122
+"The Pepperoni, Mushroom, and Peppers Pizza",9,118,131
+"The Pepperoni, Mushroom, and Peppers Pizza",10,104,118
+"The Pepperoni, Mushroom, and Peppers Pizza",11,88,104
+"The Pepperoni, Mushroom, and Peppers Pizza",12,101,88
+The Prosciutto and Arugula Pizza,1,133,
+The Prosciutto and Arugula Pizza,2,120,133
+The Prosciutto and Arugula Pizza,3,126,120
+The Prosciutto and Arugula Pizza,4,107,126
+The Prosciutto and Arugula Pizza,5,112,107
+The Prosciutto and Arugula Pizza,6,110,112
+The Prosciutto and Arugula Pizza,7,130,110
+The Prosciutto and Arugula Pizza,8,118,130
+The Prosciutto and Arugula Pizza,9,110,118
+The Prosciutto and Arugula Pizza,10,133,110
+The Prosciutto and Arugula Pizza,11,119,133
+The Prosciutto and Arugula Pizza,12,110,119
+The Sicilian Pizza,1,186,
+The Sicilian Pizza,2,154,186
+The Sicilian Pizza,3,149,154
+The Sicilian Pizza,4,150,149
+The Sicilian Pizza,5,146,150
+The Sicilian Pizza,6,161,146
+The Sicilian Pizza,7,149,161
+The Sicilian Pizza,8,157,149
+The Sicilian Pizza,9,141,157
+The Sicilian Pizza,10,165,141
+The Sicilian Pizza,11,173,165
+The Sicilian Pizza,12,156,173
+The Soppressata Pizza,1,79,
+The Soppressata Pizza,2,76,79
+The Soppressata Pizza,3,78,76
+The Soppressata Pizza,4,94,78
+The Soppressata Pizza,5,86,94
+The Soppressata Pizza,6,84,86
+The Soppressata Pizza,7,84,84
+The Soppressata Pizza,8,79,84
+The Soppressata Pizza,9,65,79
+The Soppressata Pizza,10,89,65
+The Soppressata Pizza,11,72,89
+The Soppressata Pizza,12,71,72
+The Southwest Chicken Pizza,1,135,
+The Southwest Chicken Pizza,2,153,135
+The Southwest Chicken Pizza,3,175,153
+The Southwest Chicken Pizza,4,169,175
+The Southwest Chicken Pizza,5,153,169
+The Southwest Chicken Pizza,6,143,153
+The Southwest Chicken Pizza,7,171,143
+The Southwest Chicken Pizza,8,166,171
+The Southwest Chicken Pizza,9,161,166
+The Southwest Chicken Pizza,10,156,161
+The Southwest Chicken Pizza,11,165,156
+The Southwest Chicken Pizza,12,138,165
+The Spicy Italian Pizza,1,147,
+The Spicy Italian Pizza,2,142,147
+The Spicy Italian Pizza,3,172,142
+The Spicy Italian Pizza,4,147,172
+The Spicy Italian Pizza,5,184,147
+The Spicy Italian Pizza,6,161,184
+The Spicy Italian Pizza,7,186,161
+The Spicy Italian Pizza,8,154,186
+The Spicy Italian Pizza,9,129,154
+The Spicy Italian Pizza,10,148,129
+The Spicy Italian Pizza,11,166,148
+The Spicy Italian Pizza,12,151,166
+The Spinach Pesto Pizza,1,76,
+The Spinach Pesto Pizza,2,73,76
+The Spinach Pesto Pizza,3,90,73
+The Spinach Pesto Pizza,4,60,90
+The Spinach Pesto Pizza,5,92,60
+The Spinach Pesto Pizza,6,89,92
+The Spinach Pesto Pizza,7,75,89
+The Spinach Pesto Pizza,8,85,75
+The Spinach Pesto Pizza,9,88,85
+The Spinach Pesto Pizza,10,60,88
+The Spinach Pesto Pizza,11,95,60
+The Spinach Pesto Pizza,12,74,95
+The Spinach Supreme Pizza,1,87,
+The Spinach Supreme Pizza,2,79,87
+The Spinach Supreme Pizza,3,71,79
+The Spinach Supreme Pizza,4,83,71
+The Spinach Supreme Pizza,5,84,83
+The Spinach Supreme Pizza,6,83,84
+The Spinach Supreme Pizza,7,82,83
+The Spinach Supreme Pizza,8,83,82
+The Spinach Supreme Pizza,9,70,83
+The Spinach Supreme Pizza,10,72,70
+The Spinach Supreme Pizza,11,73,72
+The Spinach Supreme Pizza,12,73,73
+The Spinach and Feta Pizza,1,123,
+The Spinach and Feta Pizza,2,107,123
+The Spinach and Feta Pizza,3,134,107
+The Spinach and Feta Pizza,4,118,134
+The Spinach and Feta Pizza,5,135,118
+The Spinach and Feta Pizza,6,117,135
+The Spinach and Feta Pizza,7,127,117
+The Spinach and Feta Pizza,8,139,127
+The Spinach and Feta Pizza,9,110,139
+The Spinach and Feta Pizza,10,88,110
+The Spinach and Feta Pizza,11,119,88
+The Spinach and Feta Pizza,12,115,119
+The Thai Chicken Pizza,1,197,
+The Thai Chicken Pizza,2,164,197
+The Thai Chicken Pizza,3,210,164
+The Thai Chicken Pizza,4,194,210
+The Thai Chicken Pizza,5,189,194
+The Thai Chicken Pizza,6,181,189
+The Thai Chicken Pizza,7,213,181
+The Thai Chicken Pizza,8,179,213
+The Thai Chicken Pizza,9,199,179
+The Thai Chicken Pizza,10,186,199
+The Thai Chicken Pizza,11,202,186
+The Thai Chicken Pizza,12,201,202
+The Vegetables + Vegetables Pizza,1,143,
+The Vegetables + Vegetables Pizza,2,139,143
+The Vegetables + Vegetables Pizza,3,138,139
+The Vegetables + Vegetables Pizza,4,134,138
+The Vegetables + Vegetables Pizza,5,109,134
+The Vegetables + Vegetables Pizza,6,119,109
+The Vegetables + Vegetables Pizza,7,139,119
+The Vegetables + Vegetables Pizza,8,120,139
+The Vegetables + Vegetables Pizza,9,108,120
+The Vegetables + Vegetables Pizza,10,96,108
+The Vegetables + Vegetables Pizza,11,122,96
+The Vegetables + Vegetables Pizza,12,143,122
