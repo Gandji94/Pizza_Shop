@@ -1,6 +1,6 @@
 # Pizza_Store
 
-A pizza store’s (with made-up data) performance was analyzed in the following project. I have uploaded the store's data to a database. In this database, I have used SQL code to manipulate the data.
+A pizza store's annual performance in 2015 was analyzed in the following project. I have uploaded the store's data to a database. In this database, I have used SQL code to manipulate the data.
 Manipulation methods:
 - Aggregation functions(sum(), count() etc.)
 - Window function (lag() and row_number())
