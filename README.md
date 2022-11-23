@@ -8,7 +8,9 @@ Manipulation methods:
 - Instr() to separate string values
 - CTE
 - Temporary tables
+
 The output of the data manipulation is displayed in the attached link to the tableau report. The link will bring you to the main report, where you can go deeper into the different sections.
+
 The report will display:
 ## Pizza Shop Report
   ### Breakdown of the Orders
